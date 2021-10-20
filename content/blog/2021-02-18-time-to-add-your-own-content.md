@@ -4,6 +4,18 @@ title: Time to add your own content
 description: Remove all of the .md-files in the /content folder and go at it!
 ---
 
+<divider></divider>
+
+<paragraph>
+ <template #content>
+ We believe that ever-evolving technology and great user experiences are the key to sustainable success in any industry. We employ some of the best experts in tech to build solutions that inherently encourage growth, speed and constant renewal. We are experts at what we are doing, but not at what we will be doing in a few years. To make sure this message will always ring true, we created an environment and working methodology in which continuous evolution is the key to success. Our solutions are build to inherently encourage growth, speed and constant renewal.
+</template>
+
+</paragraph>
+
+<Intro>About the news detail is here
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</Intro>
+
 ## Sit liquentibus sinu verbis et spatiarer laedar
 
 Lorem markdownum viros voce nostri tumulandus contegat tua **prior** umbra
@@ -47,7 +59,7 @@ async fetchPosts(
 
 ## Est nec scrobibus Antissa
 
-Duroque *sunt aureus partem* concava soleant et limite frugum Typhoea omnique:
+Duroque _sunt aureus partem_ concava soleant et limite frugum Typhoea omnique:
 que et et sono meum. Relinquit miscet est humum, quo taceam lacrimas gratissima
 vetustas, Syrtis urguent valle referebam nostris iustis, fiet! Deos per totidem
 agris! Unumque incursat, dedere Libycas sensit; hac horto Lucifero dissaepserat
